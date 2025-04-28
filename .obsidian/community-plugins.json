@@ -28,5 +28,7 @@
   "obsidian-excalidraw-plugin",
   "dataview",
   "table-editor-obsidian",
-  "obsidian-advanced-slides"
+  "obsidian-advanced-slides",
+  "obsidian-latex-suite",
+  "obsidian-plugin-toc"
 ]
