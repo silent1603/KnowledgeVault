@@ -1,0 +1,258 @@
+{
+  "main": {
+    "id": "767d7c14a86459bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ebd98f171999faf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b7ecb1d4610b1d9",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "18a234ccdda2e3fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/C++/Value Categories.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Value Categories"
+            }
+          },
+          {
+            "id": "452157913020cb8e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/C++/Expressions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Expressions"
+            }
+          },
+          {
+            "id": "1da00017eff66890",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/C++/C++.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "C++"
+            }
+          },
+          {
+            "id": "f4c83173a07d44b9",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Computer Science/C++/Resources/Images/Expressions visual.png"
+              },
+              "icon": "lucide-image",
+              "title": "Expressions visual"
+            }
+          },
+          {
+            "id": "3032fd039a6f05c9",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "667b8d36f47516e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "734a07687fcd1d61",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7f949f2f54855b9d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8dda4e96bf9de108",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "val",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "44a964f2fe139daa",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 249.5
+  },
+  "right": {
+    "id": "d396c8f969c2f6bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed63215e66e53602",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d3a411815e0581ce",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "bec3de24012edb7f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "1d39965cf21533da",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ad4004386a0eac6d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3032fd039a6f05c9",
+  "lastOpenFiles": [
+    "Tasks/Tasks.md",
+    "Computer Science/C++/Resources/Images/Expressions visual.png",
+    "Tasks",
+    "Computer Science/C++/Resources",
+    "Computer Science/C++/Resources/Images/Value Categories visual.png",
+    "Computer Science/C++/Resources/Images/Value categories properties visual.png",
+    "Computer Science/C++/Resources/Images",
+    "Computer Science/C++/Template Programming.md",
+    "Pasted image 20250427204500.png",
+    "Computer Science/C++/RAII.md",
+    "Computer Science/C++/Value Categories.md",
+    "Computer Science/C++/The rule of 5.md",
+    "Computer Science/C++/The rule of 0.md",
+    "Electronic/Control system",
+    "Electronic/Signal Processing",
+    "Electronic",
+    "Extras",
+    "Extras/Templates",
+    "Untitled.canvas",
+    "Computer Science/C++/The rule of 3.md",
+    "Computer Science/C++/C++.md",
+    "Computer Science/C++/Expressions.md",
+    "2025-04-26.md",
+    "Math/Math.md",
+    "AI/Deep Learning",
+    "AI/Machine Learning"
+  ]
+}

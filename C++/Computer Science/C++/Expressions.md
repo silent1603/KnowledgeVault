@@ -1,0 +1,14 @@
+#ComputerScience
+- Example:
+	- assignment : =
+	- increment : ++
+	- decrement : --
+	- arithmetic :
+		- add : +
+		- sub : -
+		- div : /
+		- mul : *
+	- logical
+	- function call
+- usually terminated with a semicolon (;)
+- ![[Expressions visual.png]]

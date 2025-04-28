@@ -1,0 +1,1 @@
+- [] [C++ Template Programming | 3D Game Engine Programming](https://www.3dgep.com/beginning-cpp-template-programming/#Case_1_ParamType_is_a_Reference_or_Pointer)
