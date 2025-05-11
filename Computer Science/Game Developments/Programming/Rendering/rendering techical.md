@@ -1,0 +1,2 @@
+[Using Neural Networks for Geometric Representation - AMD GPUOpen](https://gpuopen.com/learn/using_neural_networks_for_geometric_representation/?utm_source=twitter&utm_medium=social&utm_campaign=lsnif)
+[Optimizing GPU occupancy and resource usage with large thread groups - AMD GPUOpen](https://gpuopen.com/learn/optimizing-gpu-occupancy-resource-usage-large-thread-groups/)

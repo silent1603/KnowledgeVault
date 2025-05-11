@@ -1,0 +1,7 @@
+- Structural Equation Modeling
+- [Phân tích SEM (Cấu trúc tuyến tính): Phân biệt CB-SEM PLS-SEM - Phân tích xử lý dữ liệu](https://thongke.club/phan-tich-sem-cau-truc-tuyen-tinh-phan-biet-cb-sem-pls-sem/)
+- [Understanding Basics of PLS SEM](https://www.youtube.com/watch?v=7WpWKnXE0ls)
+- [[Understanding Basics of PLS SEM](https://www.youtube.com/watch?v=7WpWKnXE0ls)](https://www.smartpls.com/documentation/algorithms-and-techniques/pls)
+- [Mastering the Essentials: Unveiling the Basics of PLS-SEM — Part One: Assessing the Measurement Model | by Luthfiya Essop | Medium](https://medium.com/@luthfiessop/mastering-the-essentials-unveiling-the-basics-of-pls-sem-part-one-assessing-the-measurement-0b7bfab2816f)
+- [101. Giới thiệu giáo trình PLS - SEM và bộ dữ liệu thực hành SmartPLS](https://www.youtube.com/watch?v=-S5X0zizQLE&list=PLWFguGD2-voHfDugezHBXPvzLQ1gx8pqa)
+- [Mô hình cấu trúc và mô hình đo lường trong PLS-SEM - Phạm Lộc Blog](https://www.phamlocblog.com/2021/03/mo-hinh-cau-truc-do-luong-pls.html)
