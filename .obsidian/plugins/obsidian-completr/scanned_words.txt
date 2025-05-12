@@ -30,7 +30,6 @@ The
 Type
 Types
 Terminology
-Tutorials
 of
 one
 ownership
@@ -94,7 +93,6 @@ It
 If
 Required
 Rvalue
-Resouces
 Arguments
 An
 And
@@ -135,7 +133,6 @@ Properties
 Pointers
 PRvalue
 Pack
-Papers
 non
 not
 name
@@ -252,5 +249,4 @@ Followed
 For
 Free
 Basic
-Books
 Structural
