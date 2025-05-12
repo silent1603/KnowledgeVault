@@ -13,21 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Language Processing/Compiler/Resources.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Resources"
-            }
-          },
-          {
-            "id": "8535999f1907e3b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Computer Science/Software Developments/Programming Languages/Assembly/Resources.md",
+                "file": "Data Science/Machine Learning/Resources.md",
                 "mode": "source",
                 "source": false
               },
@@ -35,8 +21,7 @@
               "title": "Resources"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -224,43 +209,43 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "8535999f1907e3b3",
+  "active": "e9f9f8ac7abce1fb",
   "lastOpenFiles": [
-    "Computer Science/Software Developments/Programming Paradigms/Data-Oriented Design/Resources.md",
-    "Computer Science/Software Developments/Programming Languages/Assembly/Resources.md",
+    "Computer Science/Theoretical/Information Theory/Resources.md",
+    "Computer Science/Theoretical/Computational Complexity/Resources.md",
+    "Computer Science/Theoretical/Computability Theory/Resources.md",
+    "Computer Science/Theoretical/Automata and Formal Languages/Resources.md",
+    "Computer Science/Theoretical/Algorithms/Resources.md",
+    "Computer Science/Software Developments/Web Developments/Resources.md",
+    "Computer Science/Software Developments/Software Testings/Resources.md",
+    "Computer Science/Software Developments/Software Requirements/Resources.md",
+    "Computer Science/Software Developments/Project Managements/Software Documents/Resources.md",
+    "Computer Science/Software Developments/Project Managements/Resources.md",
+    "Computer Science/Software Developments/Software Design/Resources.md",
+    "Computer Science/Software Developments/Programming Paradigms/Object-Oriented Programming/Resources.md",
+    "Computer Science/Software Developments/Programming Paradigms/Functional Programming/Resources.md",
+    "Computer Science/Software Developments/Programming Languages/C/Resources.md",
+    "Computer Science/Software Developments/OS Development/Resources.md",
+    "Computer Science/Software Developments/Optimization/Resources.md",
+    "Computer Science/Software Developments/Game Development/Game Engine/Resources.md",
+    "Computer Science/Software Developments/Game Development/Untitled.md",
+    "Computer Science/Software Developments/Embedded Development/Resources.md",
+    "Computer Science/Parallel and Distributed Computing/Resources.md",
+    "Computer Science/OS/Virtual machine/Resources.md",
+    "Computer Science/OS/Resources.md",
+    "Computer Science/OS/Memory/Resources.md",
+    "Computer Science/Language Processing/Interpreter/Resources.md",
+    "Computer Science/Language Processing/Compiler/Resources.md",
+    "Computer Science/Human-Computer Interaction/Resources.md",
     "Computer Science/Software Developments/Programming Languages/Assembly",
-    "Computer Science/Software Developments/Programming Paradigms/Object-Oriented Programming/Untitled.md",
-    "Computer Science/Software Developments/Programming Paradigms/Functional Programming/Untitled.md",
-    "Computer Science/Computer Graphics/Resouces.md",
     "Computer Science/Software Developments/Programming Paradigms/Data-Oriented Design",
     "Computer Science/Software Developments/Programming Paradigms/Functional Programming",
     "Computer Science/Software Developments/Programming Paradigms/Object-Oriented Programming",
     "Computer Science/Software Developments/Programming Paradigms",
-    "Computer Science/Software Developments/Optimization/Resources.md",
-    "Computer Science/Language Processing/Compiler/Resources.md",
     "Computer Science/Software Developments/Optimization",
-    "Computer Science/OS/Memory/Resources.md",
     "Computer Science/Software Engineering",
-    "Computer Science/OS/Untitled.md",
-    "Computer Science/Computational Geometry/Untitled.md",
     "Computer Science/Software Developments/Programming Languages",
-    "Computer Science/Computer Networking/Untitled.md",
-    "Computer Science/Data Structures/Untitled.md",
-    "Computer Science/Human-Computer Interaction/Untitled.md",
     "Computer Science/Data Structures/Untitled",
-    "Computer Science/Theoretical/Information Theory/Untitled.md",
-    "Computer Science/Theoretical/Computational Complexity/Untitled.md",
-    "Computer Science/Theoretical/Computability Theory/Untitled.md",
-    "Computer Science/Theoretical/Automata and Formal Languages/Untitled.md",
-    "Computer Science/Theoretical/Algorithms/Untitled.md",
-    "Computer Science/Cybersecurity/Hacking Techniques/Untitled.md",
-    "Computer Science/Theoretical/Automata and Formal Languages",
-    "Computer Science/Cybersecurity/Penetration Testings/Untitled.md",
-    "Computer Science/Software Developments/Game Development/Untitled.md",
-    "Tasks/Tasks.md",
-    "Computer Science/Cybersecurity/Cryptography/Untitled.md",
-    "Computer Science/Computer Architecture/Untitled.md",
-    "Computer Science/OS/Virtual machine/Untitled.md",
-    "Computer Science/Software Developments/Programming Languages/C/Resources.md"
+    "Computer Science/Theoretical/Automata and Formal Languages"
   ]
 }
