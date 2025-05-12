@@ -1,1 +1,0 @@
-[Project: Code your own Memory Allocator from scratch in C](https://www.youtube.com/watch?v=oFM6RWB1170)

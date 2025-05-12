@@ -13,26 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Computer Architecture/Untitled.md",
+                "file": "Computer Science/Language Processing/Compiler/Resources.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Resources"
             }
           },
           {
-            "id": "7a83ab117370e595",
+            "id": "8535999f1907e3b3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Computational Geometry/Untitled.md",
+                "file": "Computer Science/Software Developments/Programming Languages/Assembly/Resources.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "Resources"
             }
           }
         ],
@@ -224,11 +224,27 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "e9f9f8ac7abce1fb",
+  "active": "8535999f1907e3b3",
   "lastOpenFiles": [
-    "Software Developments/Programming Languages",
-    "Computer Science/Computer Networking/Untitled.md",
+    "Computer Science/Software Developments/Programming Paradigms/Data-Oriented Design/Resources.md",
+    "Computer Science/Software Developments/Programming Languages/Assembly/Resources.md",
+    "Computer Science/Software Developments/Programming Languages/Assembly",
+    "Computer Science/Software Developments/Programming Paradigms/Object-Oriented Programming/Untitled.md",
+    "Computer Science/Software Developments/Programming Paradigms/Functional Programming/Untitled.md",
+    "Computer Science/Computer Graphics/Resouces.md",
+    "Computer Science/Software Developments/Programming Paradigms/Data-Oriented Design",
+    "Computer Science/Software Developments/Programming Paradigms/Functional Programming",
+    "Computer Science/Software Developments/Programming Paradigms/Object-Oriented Programming",
+    "Computer Science/Software Developments/Programming Paradigms",
+    "Computer Science/Software Developments/Optimization/Resources.md",
+    "Computer Science/Language Processing/Compiler/Resources.md",
+    "Computer Science/Software Developments/Optimization",
+    "Computer Science/OS/Memory/Resources.md",
+    "Computer Science/Software Engineering",
+    "Computer Science/OS/Untitled.md",
     "Computer Science/Computational Geometry/Untitled.md",
+    "Computer Science/Software Developments/Programming Languages",
+    "Computer Science/Computer Networking/Untitled.md",
     "Computer Science/Data Structures/Untitled.md",
     "Computer Science/Human-Computer Interaction/Untitled.md",
     "Computer Science/Data Structures/Untitled",
@@ -239,28 +255,12 @@
     "Computer Science/Theoretical/Algorithms/Untitled.md",
     "Computer Science/Cybersecurity/Hacking Techniques/Untitled.md",
     "Computer Science/Theoretical/Automata and Formal Languages",
-    "Computer Science/Theoretical/Computational Complexity",
-    "Computer Science/Theoretical/Computability Theory",
-    "Computer Science/Theoretical/Information Theory",
-    "Computer Science/Theoretical/Algorithms",
-    "Computer Science/Theoretical",
-    "Computer Science/Data Structures",
-    "Computer Science/Computational Geometry",
-    "Computer Science/Parallel and Distributed Computing",
     "Computer Science/Cybersecurity/Penetration Testings/Untitled.md",
-    "Software Developments/Game Development/Untitled.md",
+    "Computer Science/Software Developments/Game Development/Untitled.md",
     "Tasks/Tasks.md",
-    "Computer Science/OS/Untitled.md",
     "Computer Science/Cybersecurity/Cryptography/Untitled.md",
     "Computer Science/Computer Architecture/Untitled.md",
     "Computer Science/OS/Virtual machine/Untitled.md",
-    "Software Developments/Programming Languages/C/Resources.md",
-    "Software Developments/Web Developments/Untitled.md",
-    "Software Developments/Embedded Development/Untitled.md",
-    "Software Developments/OS Development/Untitled.md",
-    "Software Developments/Project Managements/Untitled.md",
-    "Software Developments/Software Design/Untitled 1.md",
-    "Software Developments/Software Requirements/Untitled.md",
-    "Software Developments/Software Testings/Untitled.md"
+    "Computer Science/Software Developments/Programming Languages/C/Resources.md"
   ]
 }
