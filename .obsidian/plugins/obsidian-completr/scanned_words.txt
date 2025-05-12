@@ -30,6 +30,7 @@ The
 Type
 Types
 Terminology
+Tutorials
 of
 one
 ownership
@@ -133,6 +134,7 @@ Properties
 Pointers
 PRvalue
 Pack
+Papers
 non
 not
 name
@@ -171,6 +173,9 @@ Examples
 Each
 Expanded
 Equation
+Electrical
+Electronics
+Engineering
 We
 Will
 variables
@@ -221,6 +226,7 @@ generalization
 Mixed
 Modeling
 LValue
+Learn
 easy
 examples
 expression
@@ -243,5 +249,7 @@ Used
 zero
 Followed
 For
+Free
 Basic
+Books
 Structural

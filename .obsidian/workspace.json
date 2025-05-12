@@ -13,7 +13,21 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electrical/Untitled.md",
+                "file": "Computer Science/Computer Architecture/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
+            "id": "7a83ab117370e595",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Computational Geometry/Untitled.md",
                 "mode": "source",
                 "source": false
               },
@@ -21,7 +35,8 @@
               "title": "Untitled"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +109,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 459.5
+    "width": 651.5
   },
   "right": {
     "id": "b08aa8fffe4a54e4",
@@ -211,36 +226,41 @@
   },
   "active": "e9f9f8ac7abce1fb",
   "lastOpenFiles": [
-    "Computer Science/Computer Graphics",
-    "Computer Science/Tasks/Tasks.md",
-    "Art",
-    "Music",
-    "Computer Science",
-    "Math",
-    "History",
-    "Education",
-    "Computer Science/Game Developments/Programming/Rendering/software renderer.md",
-    "Computer Science/Game Developments/Programming/Rendering/rendering techical.md",
-    "Computer Science/Game Developments/Programming/Rendering/hardware renderer.md",
-    "Computer Science/Virtual machine/Untitled.md",
-    "Computer Science/Database/Untitled.md",
-    "Computer Science/Virtual machine",
+    "Software Developments/Programming Languages",
+    "Computer Science/Computer Networking/Untitled.md",
+    "Computer Science/Computational Geometry/Untitled.md",
+    "Computer Science/Data Structures/Untitled.md",
+    "Computer Science/Human-Computer Interaction/Untitled.md",
+    "Computer Science/Data Structures/Untitled",
+    "Computer Science/Theoretical/Information Theory/Untitled.md",
+    "Computer Science/Theoretical/Computational Complexity/Untitled.md",
+    "Computer Science/Theoretical/Computability Theory/Untitled.md",
+    "Computer Science/Theoretical/Automata and Formal Languages/Untitled.md",
+    "Computer Science/Theoretical/Algorithms/Untitled.md",
+    "Computer Science/Cybersecurity/Hacking Techniques/Untitled.md",
+    "Computer Science/Theoretical/Automata and Formal Languages",
+    "Computer Science/Theoretical/Computational Complexity",
+    "Computer Science/Theoretical/Computability Theory",
+    "Computer Science/Theoretical/Information Theory",
+    "Computer Science/Theoretical/Algorithms",
+    "Computer Science/Theoretical",
+    "Computer Science/Data Structures",
+    "Computer Science/Computational Geometry",
+    "Computer Science/Parallel and Distributed Computing",
+    "Computer Science/Cybersecurity/Penetration Testings/Untitled.md",
+    "Software Developments/Game Development/Untitled.md",
+    "Tasks/Tasks.md",
     "Computer Science/OS/Untitled.md",
-    "Computer Science/Database",
-    "Electrical/Untitled.md",
-    "Computer Science/Compiler/Compiler.md",
-    "Electrical",
-    "Computer Science/Game Developments/Programming/encode/Untitled.md",
-    "Computer Science/OS",
-    "Game Developments/Programming/Rendering/Untitled/Untitled.md",
-    "Computer Science/Memory/Memory Allocator.md",
-    "Deep Learning/Untitled.md",
-    "Economic/PLS-SEM/PLS.md",
-    "Economic/PLS-SEM/SEM.md",
-    "Computer Science/Game Developments/Programming/Resources/Untitled.md",
-    "Computer Science/CryptoHack/Resources/Untitled.md",
-    "Computer Science/C++/Template Programming.md",
-    "Computer Science/C++/Value Categories.md",
-    "Untitled Kanban.md"
+    "Computer Science/Cybersecurity/Cryptography/Untitled.md",
+    "Computer Science/Computer Architecture/Untitled.md",
+    "Computer Science/OS/Virtual machine/Untitled.md",
+    "Software Developments/Programming Languages/C/Resources.md",
+    "Software Developments/Web Developments/Untitled.md",
+    "Software Developments/Embedded Development/Untitled.md",
+    "Software Developments/OS Development/Untitled.md",
+    "Software Developments/Project Managements/Untitled.md",
+    "Software Developments/Software Design/Untitled 1.md",
+    "Software Developments/Software Requirements/Untitled.md",
+    "Software Developments/Software Testings/Untitled.md"
   ]
 }
