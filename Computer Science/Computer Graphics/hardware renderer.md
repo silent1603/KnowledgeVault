@@ -1,3 +1,6 @@
 [How to write a renderer for modern graphics APIs | Clean Rinse](https://blog.mecheye.net/2023/09/how-to-write-a-renderer-for-modern-apis/)
 [abrady/VulkanRenderer: just writing a renderer from scracth](https://github.com/abrady/VulkanRenderer)
 [zauonlok/renderer: A shader-based software renderer written from scratch in C89](https://github.com/zauonlok/renderer)
+[Entwurf und Programmierung einer Rendering-Engine | TU Wien – Research Unit of Computer Graphics](https://www.cg.tuwien.ac.at/courses/2019W/RendEng/VU)
+[alecjacobson/computer-graphics: Computer Graphics Course](https://github.com/alecjacobson/computer-graphics)
+[Computer Graphics | Electrical Engineering and Computer Science | MIT OpenCourseWare](https://ocw.mit.edu/courses/6-837-computer-graphics-fall-2012/)

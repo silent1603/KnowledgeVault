@@ -13,7 +13,8 @@
     "ComputerScience": 1,
     "TemplateProgramming": 2,
     "cpp": 3,
-    "valuecategories": 4
+    "valuecategories": 4,
+    "Functional_Programming": 5
   },
   "_version": 3
 }
