@@ -14,6 +14,7 @@ pack
 pointer
 placeholder
 packs
+pdf
 board
 by
 because
@@ -22,6 +23,7 @@ both
 but
 built
 body
+bfdogplmndidlpjfhoijckpakkdjkkil
 ComputerScience
 Can
 Composition
@@ -66,6 +68,7 @@ ch
 constants
 call
 create
+cnrs
 introduction
 id
 is
@@ -219,10 +222,13 @@ vice
 versa
 variants
 vi
+viewer
 have
 has
 hi
 ho
+html
+https
 Value
 must
 moved
@@ -243,12 +249,16 @@ location
 locator
 literal
 lu
+liris
+lecture
 following
 from
 function
 followed
 for
 few
+file
+fr
 use
 upper
 using
@@ -295,6 +305,12 @@ Free
 Functional
 FP
 Function
+Fperso
+Fnpronost
+FUUCourses
+FGameEngineProgramming
+Flectures
+FGEP
 Basic
 Structural
 Deterministic

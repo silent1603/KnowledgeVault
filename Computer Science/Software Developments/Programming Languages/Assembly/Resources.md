@@ -1,1 +1,3 @@
 - https://slashbinbash.de/cppdev.html
+- [8086 assembler tutorial for beginners (part 1)](https://yassinebridi.github.io/asm-docs/asm_tutorial_01.html)
+- [asm_book/section_1/hello_world/README.md at main · pkivolowitz/asm_book](https://github.com/pkivolowitz/asm_book/blob/main/section_1/hello_world/README.md)
