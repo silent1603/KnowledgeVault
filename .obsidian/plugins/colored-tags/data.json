@@ -14,7 +14,9 @@
     "TemplateProgramming": 2,
     "cpp": 3,
     "valuecategories": 4,
-    "Functional_Programming": 5
+    "Functional_Programming": 5,
+    "Compiler": 6,
+    "C": 7
   },
   "_version": 3
 }
