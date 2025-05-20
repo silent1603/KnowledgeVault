@@ -1,16 +1,10 @@
 #ComputerScience #TemplateProgramming
 
-- [[#[[Value Categories]]|[[Value Categories]]]]
-- [[#Terminology|Terminology]]
-	- [[#Terminology#Template Arguments|Template Arguments]]
-	- [[#Terminology#Template Parameters|Template Parameters]]
-	- [[#Terminology#Type Template Parameter|Type Template Parameter]]
-	- [[#Terminology#Non-type Template Parameter|Non-type Template Parameter]]
-	- [[#Terminology#Template Template Parameter|Template Template Parameter]]
-	- [[#Terminology#Template Parameter Pack|Template Parameter Pack]]
-- [[#Basic|Basic]]
+```table-of-contents
+```
 
-# Introduction
+# Background
+
 
 ## [[Value Categories]]
 - lvalue

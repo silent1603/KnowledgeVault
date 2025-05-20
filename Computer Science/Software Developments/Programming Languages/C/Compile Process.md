@@ -7,8 +7,12 @@ option1: value1
 option2: value2
 ```
 <a id="introduction"></a>
-# Introduction
-![[compilationProcess.png]]
+# Background
+There are 4 steps in compilation process:
+1. Preprocessing 
+2. Compiling
+3. Assembling
+4. Linking
 <a id="Definition"></a>
 # Definition
 Here are the stages which are involved in C code building process in order regardless of the operating system/compiler.

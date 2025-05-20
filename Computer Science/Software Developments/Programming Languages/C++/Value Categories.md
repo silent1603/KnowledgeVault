@@ -1,16 +1,10 @@
 #ComputerScience #cpp #valuecategories
-***Table of content*:**
-- [Introduction](#introduction)
-- [Types](#types)
-- [Properties](#properties)
-	- [Lvalue](#lvalue)
-	- [PRvalue](#prvalue)
-	- [Xvalue](#xvalue)
-	- [GLvalue](#glvalue)
-	- [Rvalue](#rvalue)
+
+```table-of-contents
+```
 
 <a id="introduction"></a>
-# Introduction 
+# Background 
 
 It is result from [[Expressions]] 
 <a id="types"></a>

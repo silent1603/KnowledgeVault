@@ -16,7 +16,8 @@
     "valuecategories": 4,
     "Functional_Programming": 5,
     "Compiler": 6,
-    "C": 7
+    "C": 7,
+    "Allocator": 8
   },
   "_version": 3
 }
