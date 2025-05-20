@@ -24,3 +24,6 @@ null*
 # Add below lines to exclude OS settings and caches
 .trash/
 .DS_Store
+.obsidian/workspace.json
+.obsidian/plugins/colored-tags/data.json
+
