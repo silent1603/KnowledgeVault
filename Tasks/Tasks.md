@@ -1,1 +1,36 @@
 - [] [C++ Template Programming | 3D Game Engine Programming](https://www.3dgep.com/beginning-cpp-template-programming/#Case_1_ParamType_is_a_Reference_or_Pointer)
+- [Algorithms for Modern Hardware - Algorithmica](https://en.algorithmica.org/hpc/)
+- [3D Computer Graphics Primer: Ray-Tracing as an Example](https://www.scratchapixel.com/lessons/3d-basic-rendering/introduction-to-ray-tracing/how-does-it-work.html)
+- [Preface](https://greenteapress.com/thinkdsp/html/thinkdsp001.html#sec2)
+- [The Scientist and Engineer's Guide to Digital Signal Processing's Table of Content](https://www.dspguide.com/pdfbook.htm)
+- [Dive into Systems :: Dive Into Systems](https://diveintosystems.org/book/)
+- [Dive into Deep Learning — Dive into Deep Learning 1.0.3 documentation](https://d2l.ai/)
+- [1.1 What Are Numbers? The Rational Numbers](https://math.mit.edu/~djk/calculus_beginners/chapter01/section01.html)
+- [Introduction - 3D Math Primer for Graphics and Game Development](https://gamemath.com/book/intro.html)
+- [Minimum Stack / Minimum Queue - Algorithms for Competitive Programming](https://cp-algorithms.com/data_structures/stack_queue_modification.html)
+- https://lisyarus.github.io/blog/posts/how-not-to-ui.html
+- https://www.paulsprojects.net/opengl/template/template.html
+- https://github.com/namantam1/x86-assembly
+- https://github.com/mschwartz/assembly-tutorial
+- https://bootlin.com/blog/elce-2010-tutorial-videos/
+- https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/
+- https://ocw.mit.edu/courses/res-6-007-signals-and-systems-spring-2011/
+- https://ncmiller.dev/memory-alignment.html
+- https://www.neilwithdata.com/mathematics-self-learner
+- https://developer.nvidia.com/blog/even-easier-introduction-cuda/
+- https://developer.nvidia.com/blog/accelerated-ray-tracing-cuda/
+- https://audiodev.blog/newbie-resources/
+- [dao trung: Optimizing C Code for HPC (2024)](https://teams.live.com/l/message/19:8fdb633887562987716103957814ef72a5327260db3e7646ea1c5dc4874359d1@oneToOne.skype/1736842515525?context=%7B%22contextType%22%3A%22chat%22%7D)
+- https://epcced.github.io/hpc-intro/aio.html
+- https://www.youtube.com/watch?v=IaSSzeX6dsw
+- https://pages.cs.wisc.edu/~sifakis/courses/cs639-s20/
+- https://github.com/trevor-vincent/awesome-high-performance-computing
+- https://quant.stackexchange.com/questions/52885/beginner-to-high-frequency-trading
+- https://ieeexplore.ieee.org/document/10163261
+- https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjwp56QkuqJAxWQFVkFHQS2DUgQFnoECDAQAQ&url=https%3A%2F%2Fmedium.com%2Fe4r%2Fa-primer-to-simd-architecture-from-concept-to-code-d3cc470d6709&usg=AOvVaw0qXXte-si4tk10Voo786lR&opi=89978449
+- https://nullprogram.com/blog/2023/02/15/
+- https://www.embedded.com/freestanding-vs-hosted-implementations/
+- https://nullprogram.com/blog/2016/01/31/
+- https://class.ece.iastate.edu/cpre388/Fall2011/lecture/Multithreading.pdf
+- https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjwp56QkuqJAxWQFVkFHQS2DUgQFnoECDAQAQ&url=https%3A%2F%2Fmedium.com%2Fe4r%2Fa-primer-to-simd-architecture-from-concept-to-code-d3cc470d6709&usg=AOvVaw0qXXte-si4tk10Voo786lR&opi=89978449
+- https://github.com/ggml-org/llama.cpp/tree/master
