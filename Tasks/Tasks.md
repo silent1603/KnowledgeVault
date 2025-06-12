@@ -34,3 +34,4 @@
 - https://class.ece.iastate.edu/cpre388/Fall2011/lecture/Multithreading.pdf
 - https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjwp56QkuqJAxWQFVkFHQS2DUgQFnoECDAQAQ&url=https%3A%2F%2Fmedium.com%2Fe4r%2Fa-primer-to-simd-architecture-from-concept-to-code-d3cc470d6709&usg=AOvVaw0qXXte-si4tk10Voo786lR&opi=89978449
 - https://github.com/ggml-org/llama.cpp/tree/master
+- [Learn Game Engine Programming](https://engine-programming.github.io/)
