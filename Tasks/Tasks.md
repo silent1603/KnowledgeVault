@@ -41,3 +41,4 @@
 - [1.1 What Are Numbers? The Rational Numbers](https://math.mit.edu/~djk/calculus_beginners/chapter01/section01.html)
 - [Minimum Stack / Minimum Queue - Algorithms for Competitive Programming](https://cp-algorithms.com/data_structures/stack_queue_modification.html)
 - [Parallel Computing for Beginners — Parallel Computing for Beginners](https://www.learnpdc.org/PDCBeginners/index.html)
+- [Bit Twiddling Hacks](https://graphics.stanford.edu/~seander/bithacks.html)
