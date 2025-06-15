@@ -35,3 +35,9 @@
 - https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjwp56QkuqJAxWQFVkFHQS2DUgQFnoECDAQAQ&url=https%3A%2F%2Fmedium.com%2Fe4r%2Fa-primer-to-simd-architecture-from-concept-to-code-d3cc470d6709&usg=AOvVaw0qXXte-si4tk10Voo786lR&opi=89978449
 - https://github.com/ggml-org/llama.cpp/tree/master
 - [Learn Game Engine Programming](https://engine-programming.github.io/)
+- [Preface](https://greenteapress.com/thinkdsp/html/thinkdsp001.html#sec2)
+- [The Scientist and Engineer's Guide to Digital Signal Processing's Table of Content](https://www.dspguide.com/pdfbook.htm)
+- [Dive into Deep Learning — Dive into Deep Learning 1.0.3 documentation](https://d2l.ai/)
+- [1.1 What Are Numbers? The Rational Numbers](https://math.mit.edu/~djk/calculus_beginners/chapter01/section01.html)
+- [Minimum Stack / Minimum Queue - Algorithms for Competitive Programming](https://cp-algorithms.com/data_structures/stack_queue_modification.html)
+- [Parallel Computing for Beginners — Parallel Computing for Beginners](https://www.learnpdc.org/PDCBeginners/index.html)
