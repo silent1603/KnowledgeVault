@@ -1,0 +1,26 @@
+- What is your favorite season of the year ?
+	- I like winter
+- What is your favorite time of year ?
+	- I like summer
+- How do you go to school ?
+	- I go to school by bus 
+- What is you hobby ?
+	- I like reading books
+- What do you do in your free time ?
+	- I like watching TV
+- Where are you from ?
+	- I am from Ha Noi capital
+- What do you like to do every morning ?
+	- I like watching TV
+- What kinds movies do you like ?
+	- I like watching horror movies , action films
+- What is the weather like today ?
+	- it is hot
+- Who do you usually go to the movies with ?
+	- I usually go to the movies with my mother
+- What is your name ?
+	- My name is Lan
+- What is your first language ?
+	- It is Vietnamese
+- What is your job ?
+	- I am a student

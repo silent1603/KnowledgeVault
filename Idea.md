@@ -1,0 +1,32 @@
+- create profilter https://mostlynerdless.de/blog/2022/12/20/writing-a-profiler-from-scratch-introduction/
+- create a database
+- create a editor
+- create a compiler
+- create a emulator
+- create a static logger library
+- create a android tools gui
+- create a ios tools gui 
+- create a interpret
+- create a gui library
+- create a os
+- create a custom linker
+- write a gameboy assblemly
+- create freestanding bootloader
+- create freestanding stl
+- create a network protocol udp
+- create a game engine
+- create a math library
+- create a  sound library
+- create a physic library
+- reverse a application
+- create unicode library 
+- create a custom allocator 
+- create a async io library
+- create dsp application
+- create ray tracing application
+- learn profilter
+- learn simd
+- learn cpu architecture
+- learn gpu architecture
+- learn how to matrix
+- learn about fusion database
