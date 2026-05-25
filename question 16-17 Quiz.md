@@ -1,5 +1,0 @@
-# Generated Quiz
-
-#flashcards
-
-
