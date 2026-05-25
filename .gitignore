@@ -27,3 +27,9 @@ null*
 .obsidian/workspace.json
 .obsidian/plugins/colored-tags/data.json
 
+
+
+
+
+# Ignore Smart Environment folder
+.smart-env
